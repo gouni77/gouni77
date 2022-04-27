@@ -6,7 +6,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=gouni77&show_icons=true" alt="Goun's Github Stats"></img>
 </p>
  
-<h1> :mag_right: Skill </h1>
+<h1> :mag_right: SkillS </h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React )
