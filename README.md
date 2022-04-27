@@ -13,6 +13,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=SASS)
-![Styled-componnet](https://img.shields.io/badge/-Styled-componnet-1572B6?style=flat-square&logo=Styled-componnet)
+![styled-component](https://img.shields.io/badge/-styled-component-1572B6?style=flat-square&logo=styled-component)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
